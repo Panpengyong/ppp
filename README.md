@@ -1,3 +1,3 @@
 # ppp
 
-I love :coffee :.
+I love :coffee:, :pizza:, and :dancer:. 
